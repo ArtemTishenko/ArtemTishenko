@@ -4,29 +4,27 @@
 - 🌱 I’m currently learning in Yandex.Praktickum as web developer
 - 👯 I’m looking for a new job connected with wed development
 - 🤔 I’m looking for help with ...
-- 💬 My current stack:HTML
-CSS
-Flex box
-Grid
-БЭМ
-Адаптивная верстка
-Кроссбраузерная верстка
-JavaScript
-DOM
-OOP
-Git
-React
-ReactRouter
-Node.js
-REST API
-CORS
-NPM
-Webpack
-Babel
-JSON
-HTTP
-MongoDB
-Express
+- 💬 My current stack: HTML,
+CSS,
+Flex box,
+Grid,
+BEM,
+Cross-browser & adaptive website,
+JavaScript,
+DOM,
+OOP,
+Git,
+React,
+Node.js,
+REST API,
+CORS,
+NPM,
+Webpack,
+Babel,
+JSON,
+HTTP,
+MongoDB,
+Express,
 Figma
 
 
