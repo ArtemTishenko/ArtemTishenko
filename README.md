@@ -26,7 +26,7 @@ MongoDB,
 Express,
 Figma
 
-- 📫 How to reach me:
-<a href="https://www.linkedin.com/in/artemtishenko/" target="_blank"><img align="left" alt="ArtemTishenko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+- 📫 How to reach me:<a href="https://www.linkedin.com/in/artemtishenko/" target="_blank"><img align="left" alt="ArtemTishenko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://t.me/a_tishenko" target="_blank"><img align="left" alt="ArtemTishenko | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" /></a>
+
 
