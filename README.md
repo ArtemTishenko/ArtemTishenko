@@ -3,7 +3,6 @@
 - 🔭 I’m currently working in space industry as a senior developer of power supply for spacecraft 🛰
 - 🌱 I’m currently learning in Yandex.Praktickum as web developer
 - 👯 I’m looking for a new job connected with wed development
-- 🤔 I’m looking for help with ...
 - 💬 My current stack: HTML,
 CSS,
 Flex box,
@@ -27,9 +26,5 @@ MongoDB,
 Express,
 Figma
 
-
-
 - 📫 How to reach me: telegram @a_tishenko
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
