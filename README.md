@@ -25,6 +25,9 @@ HTTP,
 MongoDB,
 Express,
 Figma
+PUG
+SCSS
+Bootstrap
  <br>
 How to reach me:
 <br>
