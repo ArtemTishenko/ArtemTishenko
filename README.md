@@ -1,9 +1,11 @@
 ### Hi there 👽 I'm Artem 
 
-- 🔭 I’m currently working in space industry as a senior developer of power supply for spacecraft 🛰
+- 🔭 I have been  working in space industry as a senior developer of power supply for spacecraft for 9 years🛰
+- 💻 Now I'm working as Frontend-developer 
 - 🌱 I’m currently learning in Yandex.Praktickum as web developer
 - 👯 I’m looking for a new job connected with wed development
-- 💬 My current stack: HTML,
+- 💬 My current stack: 
+HTML,
 CSS,
 Flex box,
 Grid,
