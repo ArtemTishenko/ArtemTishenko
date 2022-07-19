@@ -5,12 +5,13 @@
 - 🌱 I’m currently learning in Yandex.Praktickum as web developer
 - 👯 I’m looking for a new job with interestig project
 - 💬 My current stack: 
-HTML/PUG/CSS/SCSS (Cross-browser & adaptive website,),
-JavaScript,
-Vue/Nuxt - priority framework
-
-React
-Node.js
+      HTML/PUG/CSS/SCSS (Cross-browser & adaptive website,),
+      JavaScript,
+      Vue/Nuxt - priority framework
+      
+Also work with:
+React,
+Node.js,
 Express,
 Electron
 
