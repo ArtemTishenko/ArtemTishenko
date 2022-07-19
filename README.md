@@ -3,33 +3,21 @@
 - 🔭 I have been  working in space industry as a senior developer of power supply for spacecraft for 9 years🛰
 - 💻 Now I'm working as Frontend-developer 
 - 🌱 I’m currently learning in Yandex.Praktickum as web developer
-- 👯 I’m looking for a new job connected with wed development
+- 👯 I’m looking for a new job with interestig project
 - 💬 My current stack: 
-HTML,
-CSS,
-Flex box,
-Grid,
-BEM,
-Cross-browser & adaptive website,
+HTML/PUG/CSS/SCSS (Cross-browser & adaptive website,),
 JavaScript,
-DOM,
-OOP,
-Git,
-React,
-Node.js,
-REST API,
-CORS,
-NPM,
-Webpack,
-Babel,
-JSON,
-HTTP,
-MongoDB,
+Vue/Nuxt - priority framework
+
+React
+Node.js
 Express,
-Figma
-PUG
-SCSS
-Bootstrap
+Electron
+
+UI-Libs: Bootstrap, Vueitify
+
+More: Figma, Jira, Youtrack
+
  <br>
 How to reach me:
 <br>
