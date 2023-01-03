@@ -10,7 +10,9 @@ Also work with:
 React,
 Node.js,
 Express,
-Electron
+Electron,
+Strapi
+
 
 UI-Libs: Bootstrap, Vueitify
 
