@@ -1,5 +1,5 @@
 ### Hi there 👽 I'm Artem 
-- 💻 Frontend-developer with one year experience
+- 💻 Frontend-developer with two year experience
 - 👯 I’m looking for a new interestig project
 - 💬 My current stack: 
       HTML/PUG/CSS/SCSS (Cross-browser & adaptive website,),
