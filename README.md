@@ -1,14 +1,11 @@
 ### Hi there 👽 I'm Artem 
-- 💻 Frontend-developer with two year experience
+- 💻 Frontend-developer with 3 year experience
 - 👯 I’m looking for a new interestig project
 - 💬 My current stack: 
-      HTML/PUG/CSS/SCSS (Cross-browser & adaptive website,),
-      JavaScript,
       Vue/Nuxt - priority framework
       
 Also work with:
 React,
-Node.js,
 Express,
 Electron,
 Strapi
@@ -16,7 +13,6 @@ Strapi
 
 UI-Libs: Bootstrap, Vueitify
 
-More: Figma, Jira, Youtrack
 
  <br>
 How to reach me:
